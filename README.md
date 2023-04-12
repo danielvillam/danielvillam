@@ -13,4 +13,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danielvillam&theme=dark&hide_border=true)](https://git.io/streak-stats)
       
-![danielvillam GitHub stats](https://github-readme-stats.vercel.app/api?username=danielvillam&show_icons=true&theme=radical)
+[![danielvillam GitHub stats](https://github-readme-stats.vercel.app/api?username=danielvillam&show_icons=true&theme=radical)]
