@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1 align=center">Hi, I'm Daniel Villa</h1>
-  <h3 align=center">Estudiante de Ingeniería de Sistemas e Informática con interés por el área de ciencia                       de datos y la programación.
+  <h3 align=center">Informatics Engineering Student with an interest in the area of data science and programming.
   </h3>
  
   <div align="left">
@@ -13,3 +13,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danielvillam&theme=dark&hide_border=true)](https://git.io/streak-stats)
       
+![danielvillam GitHub stats](https://github-readme-stats.vercel.app/api?username=danielvillam&show_icons=true&theme=radical)
